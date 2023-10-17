@@ -300,7 +300,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common Props", "Common Prop
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YAML", "YAML", "{6B5A44ED-918D-4747-BFB1-2472A1FCA173}"
 	ProjectSection(SolutionItems) = preProject
-		build\pipelines\templates\build-console-audit-job.yml = build\pipelines\templates\build-console-audit-job.yml
+	build\pipelines\templates\build-console-audit-job.yml = build\pipelines\templates\build-console-audit-job.yml
 		build\pipelines\templates\build-console-ci.yml = build\pipelines\templates\build-console-ci.yml
 		build\pipelines\templates\build-console-int.yml = build\pipelines\templates\build-console-int.yml
 		build\pipelines\templates\build-console-steps.yml = build\pipelines\templates\build-console-steps.yml
